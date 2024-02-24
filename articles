@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "How does walking help in diabetes?",
+    "imageUrl": "http://example.com/bombbombbombbomb",
+    "category": "diabetes",
+  },
+  {
+    "id": 2,
+    "title": "How does walking help diabetes?",
+    "imageUrl": "http://example.com/bombbombbombbomb",
+    "category": "diabetes"
+  },
+  {
+    "id": 3,
+    "title": "How does walking in diabetes?",
+    "imageUrl": "http://example.com/bombbombbombbomb",
+    "category": "diabetes"
+  }
+]
