@@ -1,42 +1,50 @@
-[
+List<Map<String, dynamic>> articles = [
   {
     "id": 1,
     "title": "Understanding Type 1 vs. Type 2 Diabetes",
-    "imageUrl": "IykLAeBvJNw"
+    "imageUrl": "IykLAeBvJNw",
+    "access": "f"
   },
   {
     "id": 2,
     "title": "10 Superfoods for Managing Blood Sugar",
-    "imageUrl": "kX3haTJcPoQ"
+    "imageUrl": "kX3haTJcPoQ",
+    "access": "f"
   },
   {
     "id": 3,
     "title": "Create a Diabetes-Friendly Meal Plan",
-    "imageUrl": "htFFkAvx-GM"
+    "imageUrl": "htFFkAvx-GM",
+    "access": "f"
   },
   {
     "id": 4,
     "title": "Role of Exercise in Diabetes Management",
-    "imageUrl": "EFYrk6TUXMY"
+    "imageUrl": "EFYrk6TUXMY",
+    "access": "f"
   },
   {
     "id": 5,
     "title": "Mindful Eating for Diabetes Control",
-    "imageUrl": "IS7duh3qumU"
+    "imageUrl": "IS7duh3qumU",
+    "access": "f"
   },
   {
     "id": 6,
     "title": "Diabetes and Mental Health",
-    "imageUrl": "0ix9pjho5G0"
+    "imageUrl": "0ix9pjho5G0",
+    "access": "f"
   },
   {
     "id": 7,
     "title": "Innovations in Diabetes Care",
-    "imageUrl": "_BStVyELesg"
+    "imageUrl": "_BStVyELesg",
+    "access": "f"
   },
   {
     "id": 8,
     "title": "Natural Supplements for Diabetes",
-    "imageUrl": "JMm-Wek23XU"
+    "imageUrl": "JMm-Wek23XU",
+    "access": "f"
   }
-]
+];
