@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": null,
+    "title": "Title 1",
     "access": "p",
     "videoUrl": "86xdjF0OD1A",
     "category": "course",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "title": null,
+    "title": "Title 2",
     "access": "p",
     "videoUrl": "nFXrcNYKQms",
     "category": "course",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "title": null,
+    "title": "Title 3",
     "access": "p",
     "videoUrl": "zOMZVad3-RA",
     "category": "course",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "title": null,
+    "title": "Title 4",
     "access": "p",
     "videoUrl": "dybpBwccTI8",
     "category": "course",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "title": null,
+    "title": "Title 5",
     "access": "p",
     "videoUrl": "5fdH7dPCXA4",
     "category": "course",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "title": null,
+    "title": "Title 6",
     "access": "p",
     "videoUrl": "lRo8ePSjNHg",
     "category": "course",
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "title": null,
+    "title": "Title 7",
     "access": "p",
     "videoUrl": "TT7tKytVR3M",
     "category": "course",
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "title": null,
+    "title": "Title 8",
     "access": "p",
     "videoUrl": "aLPGQzrA0cg",
     "category": "course",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "title": null,
+    "title": "Title 9",
     "access": "p",
     "videoUrl": "Pbp-19_hZ_4",
     "category": "course",
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-    "title": null,
+    "title": "Title 10",
     "access": "p",
     "videoUrl": "kK4GbnS_Ms4",
     "category": "course",
@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-    "title": null,
+    "title": "Title 11",
     "access": "p",
     "videoUrl": "CaOEs-HBRQs",
     "category": "course",
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-    "title": null,
+    "title": "Title 12",
     "access": "p",
     "videoUrl": "xxHrLxkngko",
     "category": "course",
