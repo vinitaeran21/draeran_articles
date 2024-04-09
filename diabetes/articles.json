@@ -1,86 +1,170 @@
 [
   {
     "id": 1,
-    "title": "Understanding Type 1 vs. Type 2 Diabetes",
-    "imageUrl": "IykLAeBvJNw",
-    "access": "f"
+    "title": "Best Superfoods for Diabetics",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Nutrition",
+    "access": "p"
   },
   {
     "id": 2,
-    "title": "10 Superfoods for Managing Blood Sugar",
-    "imageUrl": "kX3haTJcPoQ",
-    "access": "f"
+    "title": "Vitamins Important for Diabetes",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Nutrition",
+    "access": "p"
   },
   {
     "id": 3,
-    "title": "Create a Diabetes-Friendly Meal Plan",
-    "imageUrl": "htFFkAvx-GM",
+    "title": "Omega-3 for Blood Sugar",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Nutrition",
     "access": "p"
   },
   {
     "id": 4,
-    "title": "Role of Exercise in Diabetes Management",
-    "imageUrl": "EFYrk6TUXMY",
+    "title": "Walking: A Simple Step Forward",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Fitness",
     "access": "p"
   },
   {
     "id": 5,
-    "title": "Mindful Eating for Diabetes Control",
-    "imageUrl": "IS7duh3qumU",
+    "title": "Stretching for Better Health",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Fitness",
     "access": "p"
   },
   {
     "id": 6,
-    "title": "Diabetes and Mental Health",
-    "imageUrl": "0ix9pjho5G0",
-    "access": "f"
+    "title": "The Best Time to Exercise",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Fitness",
+    "access": "p"
   },
   {
     "id": 7,
-    "title": "Innovations in Diabetes Care",
-    "imageUrl": "_BStVyELesg",
-    "access": "f"
+    "title": "Stress Reduction Techniques",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Stress",
+    "access": "p"
   },
   {
     "id": 8,
-    "title": "Natural Supplements for Diabetes",
-    "imageUrl": "JMm-Wek23XU",
-    "access": "f"
+    "title": "The Benefits of Journaling",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Stress",
+    "access": "p"
   },
   {
     "id": 9,
-    "title": "The Connection Between Diabetes and Oral Health",
-    "imageUrl": "IykLAeBvJNf",
-    "access": "f"
+    "title": "Finding Your Stress Triggers",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Stress",
+    "access": "p"
   },
   {
     "id": 10,
-    "title": "Diabetes and Skin Care: Protecting Your Skin",
-    "imageUrl": "IykLAeBvJNe",
-    "access": "f"
+    "title": "Sleep's Role in Blood Sugar Control",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Sleep",
+    "access": "p"
   },
   {
     "id": 11,
-    "title": "Navigating Diabetes in Children and Adolescents",
-    "imageUrl": "IykLAeBvJNd",
-    "access": "f"
+    "title": "Sleep Apnea and Blood Sugar Levels",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Sleep",
+    "access": "p"
   },
   {
     "id": 12,
-    "title": "The Socioeconomic Factors Affecting Diabetes Care",
-    "imageUrl": "IykLAeBvJNc",
-    "access": "f"
+    "title": "The Impact of Stress on Sleep",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Sleep",
+    "access": "p"
   },
   {
     "id": 13,
-    "title": "The Impact of Sleep on Blood Sugar Levels",
-    "imageUrl": "IykLAeBvJNb",
-    "access": "f"
+    "title": "The Effects of Poor Sleep on Diabetes",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Sleep",
+    "access": "p"
   },
   {
     "id": 14,
-    "title": "Diabetic Neuropathy",
-    "imageUrl": "IykLAeBvJNa",
-    "access": "f"
+    "title": "Can Diabetics Eat Fruit?",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 15,
+    "title": "Can Diabetics Eat Honey?",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 16,
+    "title": "The Misunderstood Role of Insulin",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 17,
+    "title": "Natural Remedies for Diabetes Myths",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 18,
+    "title": "Tips for Diabetic Friendly Meals",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 19,
+    "title": "Tips for Injecting Insulin",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 20,
+    "title": "Tips for Lowering A1C",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 21,
+    "title": "Diabetes and Mental Health Support",
+    "imageUrl": null,
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
   }
 ]
