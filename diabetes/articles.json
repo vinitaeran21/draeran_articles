@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Best Superfoods for Diabetics",
-    "imageUrl": null,
+    "imageUrl": "abcd",
     "disease": "diabetes",
     "category": "Nutrition",
     "access": "p"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "title": "Vitamins Important for Diabetes",
-    "imageUrl": null,
+    "imageUrl": "abce",
     "disease": "diabetes",
     "category": "Nutrition",
     "access": "p"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "title": "Omega-3 for Blood Sugar",
-    "imageUrl": null,
+    "imageUrl": "abcf",
     "disease": "diabetes",
     "category": "Nutrition",
     "access": "p"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "title": "Walking: A Simple Step Forward",
-    "imageUrl": null,
+    "imageUrl": "abcg",
     "disease": "diabetes",
     "category": "Fitness",
     "access": "p"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "title": "Stretching for Better Health",
-    "imageUrl": null,
+    "imageUrl": "abch",
     "disease": "diabetes",
     "category": "Fitness",
     "access": "p"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "title": "The Best Time to Exercise",
-    "imageUrl": null,
+    "imageUrl": "abci",
     "disease": "diabetes",
     "category": "Fitness",
     "access": "p"
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "title": "Stress Reduction Techniques",
-    "imageUrl": null,
+    "imageUrl": "abcj",
     "disease": "diabetes",
     "category": "Stress",
     "access": "p"
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "title": "The Benefits of Journaling",
-    "imageUrl": null,
+    "imageUrl": "abck",
     "disease": "diabetes",
     "category": "Stress",
     "access": "p"
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "title": "Finding Your Stress Triggers",
-    "imageUrl": null,
+    "imageUrl": "abcl",
     "disease": "diabetes",
     "category": "Stress",
     "access": "p"
@@ -74,7 +74,7 @@
   {
     "id": 10,
     "title": "Sleep's Role in Blood Sugar Control",
-    "imageUrl": null,
+    "imageUrl": "abcm",
     "disease": "diabetes",
     "category": "Sleep",
     "access": "p"
@@ -82,7 +82,7 @@
   {
     "id": 11,
     "title": "Sleep Apnea and Blood Sugar Levels",
-    "imageUrl": null,
+    "imageUrl": "abcn",
     "disease": "diabetes",
     "category": "Sleep",
     "access": "p"
@@ -90,7 +90,7 @@
   {
     "id": 12,
     "title": "The Impact of Stress on Sleep",
-    "imageUrl": null,
+    "imageUrl": "abco",
     "disease": "diabetes",
     "category": "Sleep",
     "access": "p"
@@ -98,7 +98,7 @@
   {
     "id": 13,
     "title": "The Effects of Poor Sleep on Diabetes",
-    "imageUrl": null,
+    "imageUrl": "abcp",
     "disease": "diabetes",
     "category": "Sleep",
     "access": "p"
@@ -106,7 +106,7 @@
   {
     "id": 14,
     "title": "Can Diabetics Eat Fruit?",
-    "imageUrl": null,
+    "imageUrl": "abcq",
     "disease": "diabetes",
     "category": "Myth Busters",
     "access": "p"
@@ -114,7 +114,7 @@
   {
     "id": 15,
     "title": "Can Diabetics Eat Honey?",
-    "imageUrl": null,
+    "imageUrl": "abcr",
     "disease": "diabetes",
     "category": "Myth Busters",
     "access": "p"
@@ -122,7 +122,7 @@
   {
     "id": 16,
     "title": "The Misunderstood Role of Insulin",
-    "imageUrl": null,
+    "imageUrl": "abcs",
     "disease": "diabetes",
     "category": "Myth Busters",
     "access": "p"
@@ -130,7 +130,7 @@
   {
     "id": 17,
     "title": "Natural Remedies for Diabetes Myths",
-    "imageUrl": null,
+    "imageUrl": "abct",
     "disease": "diabetes",
     "category": "Myth Busters",
     "access": "p"
@@ -138,7 +138,7 @@
   {
     "id": 18,
     "title": "Tips for Diabetic Friendly Meals",
-    "imageUrl": null,
+    "imageUrl": "abcu",
     "disease": "diabetes",
     "category": "Knowledge",
     "access": "p"
@@ -146,7 +146,7 @@
   {
     "id": 19,
     "title": "Tips for Injecting Insulin",
-    "imageUrl": null,
+    "imageUrl": "abcv",
     "disease": "diabetes",
     "category": "Knowledge",
     "access": "p"
@@ -154,7 +154,7 @@
   {
     "id": 20,
     "title": "Tips for Lowering A1C",
-    "imageUrl": null,
+    "imageUrl": "abcw",
     "disease": "diabetes",
     "category": "Knowledge",
     "access": "p"
@@ -162,7 +162,7 @@
   {
     "id": 21,
     "title": "Diabetes and Mental Health Support",
-    "imageUrl": null,
+    "imageUrl": "abcx",
     "disease": "diabetes",
     "category": "Knowledge",
     "access": "p"
