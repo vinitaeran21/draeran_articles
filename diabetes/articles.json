@@ -343,4 +343,732 @@
     "category": "Nutrition",
     "access": "p"
   },
+    {
+    "id": 44,
+    "title": "Emotional Eating and Diabetes",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Nutrition",
+    "access": "p"
+  },
+  {
+    "id": 45,
+    "title": "Exercise Basics for Diabetics",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Fitness",
+    "access": "p"
+  },
+  {
+    "id": 46,
+    "title": "Yoga Benefits for Diabetes",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Fitness",
+    "access": "p"
+  },
+  {
+    "id": 47,
+    "title": "Strength Training Dos & Don'ts",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Fitness",
+    "access": "p"
+  },
+  {
+    "id": 48,
+    "title": "Cardio for Blood Sugar Control",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Fitness",
+    "access": "p"
+  },
+  {
+    "id": 49,
+    "title": "Fitness Plans That Work",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Fitness",
+    "access": "p"
+  },
+  {
+    "id": 50,
+    "title": "Low-Impact Workouts",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Fitness",
+    "access": "p"
+  },
+  {
+    "id": 51,
+    "title": "Home Exercises for Diabetics",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Fitness",
+    "access": "p"
+  },
+  {
+    "id": 52,
+    "title": "Tracking Fitness Progress",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Fitness",
+    "access": "p"
+  },
+  {
+    "id": 53,
+    "title": "Meditation for Stress & Sugar",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Stress",
+    "access": "p"
+  },
+  {
+    "id": 54,
+    "title": "Breathing Exercises for Calm",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Stress",
+    "access": "p"
+  },
+  {
+    "id": 55,
+    "title": "The Link Between Stress & Sugar",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Stress",
+    "access": "p"
+  },
+  {
+    "id": 56,
+    "title": "Managing Stress Eating",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Stress",
+    "access": "p"
+  },
+  {
+    "id": 57,
+    "title": "Relaxation Tips for Diabetics",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Stress",
+    "access": "p"
+  },
+  {
+    "id": 58,
+    "title": "Stress & Sleep: The Connection",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Stress",
+    "access": "p"
+  },
+  {
+    "id": 59,
+    "title": "Hobbies to Lower Stress",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Stress",
+    "access": "p"
+  },
+  {
+    "id": 60,
+    "title": "The Role of Therapy",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Stress",
+    "access": "p"
+  },
+  {
+    "id": 61,
+    "title": "Music Therapy for Stress",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Stress",
+    "access": "p"
+  },
+  {
+    "id": 62,
+    "title": "Setting Healthy Boundaries",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Stress",
+    "access": "p"
+  },
+  {
+    "id": 63,
+    "title": "Stress and Blood Sugar Logs",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Stress",
+    "access": "p"
+  },
+  {
+    "id": 64,
+    "title": "The Power of Positive Thinking",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Stress",
+    "access": "p"
+  },
+  {
+    "id": 65,
+    "title": "Tips for Better Sleep Hygiene",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Sleep",
+    "access": "p"
+  },
+  {
+    "id": 66,
+    "title": "Sleep Disorders & Diabetes Risk",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Sleep",
+    "access": "p"
+  },
+  {
+    "id": 67,
+    "title": "Improving Sleep for Better Health",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Sleep",
+    "access": "p"
+  },
+  {
+    "id": 68,
+    "title": "Bedtime Routines for Diabetics",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Sleep",
+    "access": "p"
+  },
+  {
+    "id": 69,
+    "title": "Managing Nighttime Blood Sugar Dips",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Sleep",
+    "access": "p"
+  },
+  {
+    "id": 70,
+    "title": "Sleep & Weight: The Connection",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Sleep",
+    "access": "p"
+  },
+  {
+    "id": 71,
+    "title": "Relaxation Techniques for Better Sleep",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Sleep",
+    "access": "p"
+  },
+  {
+    "id": 72,
+    "title": "The Link Between Insomnia & Diabetes",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Sleep",
+    "access": "p"
+  },
+  {
+    "id": 73,
+    "title": "Sleep Tips for Shift Workers",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Sleep",
+    "access": "p"
+  },
+  {
+    "id": 74,
+    "title": "Bedroom Environment for Good Sleep",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Sleep",
+    "access": "p"
+  },
+  {
+    "id": 75,
+    "title": "Debunking Diabetes Diet Myths",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 76,
+    "title": "Exercise Myths for Diabetes Uncovered",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 77,
+    "title": "Insulin Myths Debunked",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 78,
+    "title": "Diabetes Cure Myths Exposed",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 79,
+    "title": "The Truth About Diabetes and Sugar",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 80,
+    "title": "Myth: Diabetes Isn't Serious",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 81,
+    "title": "Diabetic Complications: Myths vs. Facts",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 82,
+    "title": "Breaking Down Stereotypes About Diabetes",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 83,
+    "title": "Myth: Only Overweight People Get Diabetes",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 84,
+    "title": "Diabetes and Carbohydrates Misunderstood",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 85,
+    "title": "Is Type 2 Diabetes Always Preventable?",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 86,
+    "title": "Myths About Diabetes Medication",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 87,
+    "title": "Busting Myths About Blood Sugar Testing",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 88,
+    "title": "Diabetic Foot Care Myths",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 89,
+    "title": "The Alcohol and Diabetes Myths",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 90,
+    "title": "Pregnancy and Diabetes Myths",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 91,
+    "title": "Myths About Diabetes and Exercise",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 92,
+    "title": "Diabetes and Infections: What's True?",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 93,
+    "title": "Type 1 Diabetes Misconceptions",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 94,
+    "title": "Natural Remedies for Diabetes Myths",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 95,
+    "title": "Myths About Diabetic Retinopathy",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 96,
+    "title": "Diabetes and Kidney Disease Myths",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 97,
+    "title": "The Truth About Diabetes and Dieting",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 98,
+    "title": "Diabetes and Mental Health Myths",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 99,
+    "title": "Myths About Diabetic Neuropathy",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 100,
+    "title": "Misconceptions About Diabetes and Aging",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+    {
+    "id": 101,
+    "title": "Diet Soda and Diabetes: The Reality",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Myth Busters",
+    "access": "p"
+  },
+  {
+    "id": 102,
+    "title": "Daily Tips for Managing Diabetes",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 103,
+    "title": "Traveling Tips for Diabetics",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 104,
+    "title": "Foot Care Tips for Diabetics",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 105,
+    "title": "Diabetes Emergency Preparedness",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 106,
+    "title": "Skincare Tips for Diabetic Health",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 107,
+    "title": "Smart Grocery Shopping for Diabetics",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 108,
+    "title": "Staying Hydrated with Diabetes",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 109,
+    "title": "Workplace Wellness for Diabetics",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 110,
+    "title": "Managing Diabetes During Holidays",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 111,
+    "title": "Blood Sugar Monitoring Tips",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 112,
+    "title": "Managing Diabetes with Apps",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 113,
+    "title": "Diabetic Eye Care Tips",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 114,
+    "title": "Preventing Diabetic Foot Ulcers",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 115,
+    "title": "Diabetes and Dental Care Tips",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 116,
+    "title": "Kidney Health Tips for Diabetics",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 117,
+    "title": "Coping with Diabetes Burnout",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 118,
+    "title": "Social Support for Diabetes Care",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 119,
+    "title": "Tips for Healthy Weight Loss",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 120,
+    "title": "Managing High Blood Pressure",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+    {
+    "id": 121,
+    "title": "Reducing Risk of Diabetes Complications",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 122,
+    "title": "Finding the Right Diabetes Doctor",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 123,
+    "title": "Diabetes and Pregnancy Tips",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 124,
+    "title": "Adjusting to Life with Diabetes",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 125,
+    "title": "Tips for Eating Out with Diabetes",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 126,
+    "title": "Managing Hypoglycemia",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 127,
+    "title": "Exercise Tips for Diabetes",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 128,
+    "title": "Tips for a Diabetic-Friendly Kitchen",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 129,
+    "title": "Managing Cholesterol with Diabetes",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 130,
+    "title": "Diabetic Neuropathy Management Tips",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 131,
+    "title": "Creating a Diabetes Care Team",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 132,
+    "title": "Understanding Diabetes Medications",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 133,
+    "title": "Dealing with Diabetes Discrimination",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  },
+  {
+    "id": 134,
+    "title": "Tips for Young Adults with Diabetes",
+    "imageUrl": "",
+    "disease": "diabetes",
+    "category": "Knowledge",
+    "access": "p"
+  }
 ]
